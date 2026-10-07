@@ -1,0 +1,6 @@
+# Competition data (DACON) — not redistributed; download it from the competition page
+*.csv
+# Training outputs
+*.pt
+__pycache__/
+.ipynb_checkpoints/
