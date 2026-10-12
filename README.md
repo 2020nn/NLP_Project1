@@ -13,16 +13,17 @@ output: 절대 가면 안 되는 곳 메모
 |---|---|
 | [`docs/PROJECT_OVERVIEW.md`](docs/PROJECT_OVERVIEW.md) | The problem, how the team works, my role, progress log |
 | [`practice/`](practice) | My from-scratch practice: EDA and baselines built from the raw data |
-| [`team/`](team) | The team's stage 3 model, plus my stage 4 stacking wrapper |
+| [`team/`](team) | Team B's stage 3 model, plus my stage 4 stacking wrapper |
+| [`docs/presentation/`](docs/presentation) | Final presentation comparing Team A and Team B (we are Team B), in Korean and English |
 | `docs/REPORT.md` | Final report (added at the end of the project) |
 
 ## Results so far
 
-| Method | Char accuracy | Sentence accuracy |
+| Method | Char accuracy | Leaderboard |
 |---|---|---|
 | Copy the input | 0.397 | – |
-| Frequency-mapping baseline (5-fold CV) | 0.806 | 0.012 |
-| Team pipeline (stages 2–3) | in progress | in progress |
+| Frequency-mapping baseline (5-fold CV) | 0.806 | – |
+| Team B final: candidate selection over 9 runs | 0.99146 (OOF) | Public F1 0.98908 |
 
 ## Data
 

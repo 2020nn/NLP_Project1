@@ -1,6 +1,6 @@
-# Team pipeline
+# Team pipeline (Team B)
 
-Code from the team's pipeline.
+Code from Team B's pipeline (our team). The full approach and results are in the [final presentation](../docs/presentation).
 
 | File | Author | What it does |
 |---|---|---|
